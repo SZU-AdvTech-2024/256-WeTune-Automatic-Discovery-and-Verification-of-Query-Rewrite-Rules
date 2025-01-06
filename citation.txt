@@ -1,6 +1,5 @@
 @inproceedings{REPO256,
     author = "Zhou, Xiaoyang and Wang, Zhipeng and Li, Haoxiang and Gu, Xiaofei and Feng, Tianyu and Yuan, Wenhao and Zhang, Sheng and Zhang, Tong and Chen, Yanwei and Li, Jian",
-    address = "New York, NY, USA",
     booktitle = "Proceedings of the 2022 ACM SIGMOD International Conference on Management of Data",
     pages = "1644–1657",
     publisher = "ACM",
